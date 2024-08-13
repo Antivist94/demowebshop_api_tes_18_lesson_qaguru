@@ -1,1 +1,1 @@
-# demowebshop_api_tes_18_lesson_qaguruts_
+# demowebshop_api_tes_18_lesson_qaguru
