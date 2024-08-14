@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "demowebshop-api-tes-18-lesson"
+version = "0.1.0"
+description = ""
+authors = ["Eugene Evdokimenko <eugene.qa94@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selene = "2.0.0rc9"
+requests = "^2.32.3"
+pytest = "^8.3.2"
+allure-pytest = "^2.13.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
